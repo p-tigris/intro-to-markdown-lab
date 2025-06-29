@@ -128,7 +128,7 @@ French regular verbs ending in -re, such as *vendre* (to sell), *attendre* (to w
 
 | Verb | Meaning| Je | Tu | Il/Elle | Nous | Vous | Ils/Elles |
 |------|--------|----|----|---------|------|------|-----------|
-| perdre | to lose| perds | perds | perd | perdons | perdez | perdent
+| *perdre* | to lose| perds | perds | perd | perdons | perdez | perdent
 
 > Note for conjugation: Many French verbs do not follow these conjugation rules, and are therefore considered *irregular*. Common verbs include *avoir*, *être*, and *faire*.
 
