@@ -82,7 +82,7 @@ French pronouns are very much like English pronouns, with differences in formali
 French verbs tend to be varied in spelling depending on who is the subject. French verb infinitives (i.e. "to" + verb) end in *-er*, *-ir*, or *-re*, with different conjugations for each verb suffix. When conjugating, these suffixes are removed and other letters are placed. Below are the conjugations for present tense.
 
 ### -er
-French regular verbs ending in -er, such as *travailler* (to work), *parler* (to speak) or *manger* (to eat), follow these conjugation rules:
+French regular verbs ending in -er, such as *travailler* (to work), *parler* (to speak), *adorer* (to love) or *manger* (to eat), follow these conjugation rules:
 
 * Je *(-e)*
 * Tu *(-es)*
@@ -95,7 +95,8 @@ French regular verbs ending in -er, such as *travailler* (to work), *parler* (to
 
 | Verb | Meaning| Je | Tu | Il/Elle | Nous | Vous | Ils/Elles |
 |------|--------|----|----|---------|------|------|-----------|
-| parler | to speak| parle | parles | parle | parlons | parlez | parlent
+| *parler* | to speak| parle | parles | parle | parlons | parlez | parlent
+| *adorer* | to love| adore | adores | adore | adorons | adorez | adorent
 
 ### -ir
 French regular verbs ending in -ir, such as *finir* (to finish)  and *choisir* (to choose), follow these conjugation rules:
@@ -111,7 +112,7 @@ French regular verbs ending in -ir, such as *finir* (to finish)  and *choisir* (
 
 | Verb | Meaning| Je | Tu | Il/Elle | Nous | Vous | Ils/Elles |
 |------|--------|----|----|---------|------|------|-----------|
-| choisir | to choose| choisis | choisis | choisit | choisissons | choisissez | choisissent
+| *choisir* | to choose| choisis | choisis | choisit | choisissons | choisissez | choisissent
 
 ### -re
 French regular verbs ending in -re, such as *vendre* (to sell), *attendre* (to wait) and *perdre* (to lose), follow these conjugation rules:
